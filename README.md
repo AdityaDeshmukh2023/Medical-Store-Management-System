@@ -1,5 +1,4 @@
-**# Medical-Store-Software-Solution-
-This report presents a Medical Store Management System designed to efficiently manage the inventory and purchase history of medicines. The system allows users to add new medicines, update existing medicine details, delete medicines, display available medicines, record purchases, and view purchase history**# Medical Store Management System
+# Medical Store Management System
 
 ## Overview
 The Medical Store Management System is a software application designed to manage medicine details and purchase records for a medical store. The application features a user-friendly graphical user interface (GUI) built with Python's `tkinter` library, allowing users to easily add, update, delete, and view medicines, as well as record purchases and display purchase history.
